@@ -1,6 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-
 <!doctype html>
 <!-- 
 p.277 [리스트 11.9] 회원가입 화면
